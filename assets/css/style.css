@@ -26,12 +26,12 @@ p{
     text-decoration: none;
     padding: 1rem;
 }
+
+
 .linksDirection:hover{
     background-color: #51ba6f;
 }
-.linksDirection:active{
-    background-color: #51bb70;
-}
+
 .links{
     width: 15rem;
     margin: auto;
